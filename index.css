@@ -107,3 +107,7 @@ body {
 .todo-day {
   color: #2effaf;
 }
+
+.hidden-delete-icon {
+  display: none !important;
+}
